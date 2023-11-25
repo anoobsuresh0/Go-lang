@@ -6,7 +6,7 @@ My Portfolio Website :- https://anoobsuresh0.github.io/
 1) introduction
 2) variables
 3) arrays
-4) 
+4) slices
 5) 
 6) 
 7) 
